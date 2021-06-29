@@ -1,3 +1,4 @@
 temp_data
 annoy_index_file
 *.swp
+.DS_Store
